@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">xposedmodule</string>
+    <string-array name="xposedscope">
+        <!-- 这里填写模块的作用域应用的包名，可以填多个。 -->
+        <item>com.en.xposedmodule</item>
+
+    </string-array>
+</resources>
